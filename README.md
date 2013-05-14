@@ -17,8 +17,9 @@ Operation process
 User not logged in before, you can look at the article information and comment. If you want to add articles, pictures, etc information, need to log in, click the "blog registration" button to register a user name and password. After registration, enter the normal user operation page.
 In this page, you can add and query information, articles comment; Add and query; Add friends information, etc.
 This blog administrator information is stored in the database, the application cannot add, modify, and delete. In the blog home page login enter the administrator user name, password and validation code, enter the administrator page operation. Administrators with all of the user's permissions, ordinary can also delete articles, comments, information, images, and their friends information, management of ordinary users information and announcements.
-=======================================================================================================================
+
 个人博客网站安装与配置使用说明书
+=======================================================================================================================
 
 配置源程序
 1．安装下载的appserv-win32-2.5.10.exe软件（最好安装在D盘根目录下，安装过程中密码设为8748，在语言下拉列表中选择简体中文）
@@ -35,3 +36,25 @@ This blog administrator information is stored in the database, the application c
 用户未登录前，可以查看文章信息及发表评论。如果想要添加文章、图片等信息，需要登录，首先单击“博客注册”按钮，注册用户名和密码。注册成功后，进入普通用户操作页面。
 在该页面中，可以添加及查询文章信息、发表评论；添加及查询图片；添加朋友信息等操作。
 　　本博客的管理员信息是保存在数据库中的，程序中不可添加、修改及删除。在博客首页登录处输入管理员用户名、密码及验证码，进入管理员操作页面。管理员具有普通用户的所有权限，还可以删除文章信息、评论信息、图片及自己的朋友信息，管理普通用户信息及公告信息。
+
+东华理工大学IT网项目组相关连接
+==========================================================================================================================
+东华理工大学IT网：
+  http://ecit-it.com
+  http://huidaoli.web-164.com
+东华理工大学IT网团队项目协同办公室：
+  http://ecit-it.tudu.com/
+东华理工大学IT网站官方微博：
+  http://e.weibo.com/1910620900/ 
+  http://weibo.com/lhd20111102
+东华理工大学IT网站博客：
+  http://blog.sina.com.cn/ulihd
+东华理工大学IT网站博客手机端下载链接：
+  http://s.hudee.com/1910620900
+东华理工大学IT网移动客户端下载：
+  http://app.zhui.cn/Mobile/Down.aspx?SID=79935&SwitchOS=1
+  http://ecit-it.com/a/ITchuangyi/20130429/1422.html
+东华理工大学IT网网站站长简历：
+  http://ecit-it.com/a/ITjiuye/20130428/1395.html
+东华理工大学IT网QQ交流群：
+  37604517
